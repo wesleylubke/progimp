@@ -59,6 +59,5 @@ function esquentarComida(opcao, tempo) {
     if (opcao == 4 && tempo > 36) {
         console.log('KABUM')
     }
-    //para brigadeiro
 }
 esquentarComida(2, 17)
